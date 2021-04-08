@@ -4,11 +4,11 @@
 
 ### ABOUT
 
-<h3> 👨🏻•💻 About Me </h3>
+<h3> •💻 About Me </h3>
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+-  &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
 - 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
 
@@ -18,7 +18,7 @@
 
 
 
-<h3>🛠 Tech Stack</h3>
+<h3> Tech Stack</h3>
 
 
 
@@ -74,7 +74,7 @@
 
 <p align="center">
 
-<a href="https://www.instagram.com/Ant.x.pras/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/Ant.x.pras/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-follow-bluek?style=flat-square&logo=instagram"></a>
 
 </p>
 
@@ -82,7 +82,7 @@
 
 
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=TelegramBotHeroku.TelegramBotHeroku)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 
 
