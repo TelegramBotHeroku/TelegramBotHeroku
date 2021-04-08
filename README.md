@@ -28,7 +28,7 @@
 
 <!--
 
-- 🛢 &nbsp; MySQL | MongoDB
+-  &nbsp; MySQL | MongoDB
 
 - 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
 
@@ -38,7 +38,7 @@
 
 
 
-<h3>🛠 To Learn</h3>
+<h3> To Learn </h3>
 
 - 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
 
@@ -48,7 +48,7 @@
 
 <br/><br/>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://github.com/shivam0110)
+[![TelegramBotHeroku](https://github-readme-stats.vercel.app/api?username=TelegramBotHeroku&show_icons=true)](https://github.com/TelegramBotHeroku)
 
 <br/>
 
@@ -56,7 +56,7 @@
 
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TelegramBotHeroku&show_icons=true)
 
 <br><br>
 
@@ -66,7 +66,7 @@
 
 
 
-<h3> 🤝🏻 My Account Social media </h3>
+<h3> My Account Social media </h3>
 
 <br>
 
